@@ -8,7 +8,9 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zeative.zeative&left_color=darkorange&right_color=dimgrey&left_text=Look%20at%20me"  />
+  <img src="https://wakatime.com/badge/user/018b5cb5-fb66-4092-8e09-034dd5b8f706.svg"  />
 </div>
+
 
 ###
 
@@ -91,14 +93,15 @@
 
 ###
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeative/zeative/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeative/zeative/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeative/zeative/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/zeative/zeative/output/snake.svg" alt="Snake animation" />
 
 ###
