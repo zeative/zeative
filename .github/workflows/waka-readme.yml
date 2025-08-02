@@ -28,7 +28,5 @@ jobs:
           STOP_AT_OTHER: true # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
           COMMITTER_NAME: zeative # optional
           AUTHOR_EMAIL: zaadevofc@gmail.com # optional
