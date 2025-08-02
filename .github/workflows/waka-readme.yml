@@ -23,5 +23,5 @@ jobs:
           SHOW_SHORT_INFO: false # optional
           BLOCKS: ▱▰ # optional
           STOP_AT_OTHER: true # optional
-          SHOW_MASKED_TIME: true # optional
+          SHOW_MASKED_TIME: false # optional
 
