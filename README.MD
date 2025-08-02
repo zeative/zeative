@@ -98,14 +98,18 @@
 ```txt
 From: 22 October 2023 - To: 01 August 2025
 
-Total Time: 1,624 hrs 49 mins
+Total Time: 1,628 hrs 56 mins
 
-TypeScript        1,129 hrs 53 mins>>>>>>>>>>>>>>>>>--------   69.36 %
-Vue.js            108 hrs 40 mins >>-----------------------   06.67 %
-JavaScript        85 hrs 4 mins   >------------------------   05.22 %
-Blade Template    78 hrs 56 mins  >------------------------   04.85 %
-JSON              49 hrs 35 mins  >------------------------   03.04 %
-C++               33 hrs 23 mins  >------------------------   02.05 %
+TypeScript        1,129 hrs 53 mins▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   69.36 %
+Vue.js            108 hrs 40 mins ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.67 %
+JavaScript        85 hrs 4 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.22 %
+Blade Template    78 hrs 56 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.85 %
+JSON              49 hrs 35 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.04 %
+C++               33 hrs 23 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.05 %
+Astro             22 hrs 1 min    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.35 %
+Markdown          18 hrs 1 min    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.11 %
+Prisma            17 hrs 43 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.09 %
+CSS               17 hrs 33 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.08 %
 ```
 
 <!--END_SECTION:waka-->
