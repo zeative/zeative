@@ -98,3 +98,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/zeative/zeative/output/snake.svg" alt="Snake animation" />
+
+###
