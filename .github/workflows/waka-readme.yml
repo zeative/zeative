@@ -21,7 +21,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_EDITORS: true # optional
           SHOW_SHORT_INFO: false # optional
-          BLOCKS: -> # optional
+          BLOCKS: ▱▰ # optional
           STOP_AT_OTHER: true # optional
-          SHOW_MASKED_TIME: false # optional
+          SHOW_MASKED_TIME: true # optional
 
