@@ -1,7 +1,4 @@
-<img align="center" height="100" src="https://github.com/zeative.png"  />
-<img align="center" height="80" src="https://github.com/zeative.png"  />
-<img align="center" height="60" src="https://github.com/zeative.png"  />
-<img align="center" height="40" src="https://github.com/zeative.png"  />
+<img height="100" src="https://github.com/zeative.png" />
 
 ###
 
