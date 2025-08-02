@@ -16,7 +16,7 @@ jobs:
           REPOSITORY: zeative/zeative # optional
           SHOW_TITLE: true # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 20 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_EDITORS: true # optional
