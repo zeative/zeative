@@ -2,7 +2,7 @@ name: Work Stats Readme
 
 on:
   workflow_dispatch:
-  schedule
+  schedule:
     - cron: "0 * * * *"
 
 jobs:
