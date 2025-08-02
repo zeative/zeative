@@ -17,6 +17,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # require
+          REPOSITORY: zeative/zeative
           SHOW_TITLE: true # optional
           BLOCKS: -> # optional
           TIME_RANGE: all_time # optional
