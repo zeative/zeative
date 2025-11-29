@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi dev! I'm Kejaa, a freelance and part-time worker.<br>I love efficiency, simplifying and optimization.</p>
+<p align="left">Hi dev! I'm Kejaa, a freelance and part-time worker.<br>I love efficiency, simplifying and optimization</p>
 
 ###
 
@@ -10,7 +10,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zeative.zeative&left_color=darkorange&right_color=dimgrey&left_text=Look%20at%20me"  />
   <img src="https://wakatime.com/badge/user/018b5cb5-fb66-4092-8e09-034dd5b8f706.svg"  />
 </div>
-
 
 ###
 
