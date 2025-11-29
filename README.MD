@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi dev! I'm Kejaa, a freelance and part-time worker.<br>I love efficiency, simplifying and optimization</p>
+<p align="left">Hi dev! I'm Kejaa, a freelance and part-time worker.<br>I love efficiency, simplifying and optimization.</p>
 
 ###
 
