@@ -88,6 +88,12 @@
   <a href="mailto:zaadevofc@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://ko-fi.com/zaadevofc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="37" height="25" alt="ko-fi logo"  />
+  </a>
+  <a href="https://medium.com/@zaadevofc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="37" height="25" alt="medium logo"  />
+  </a>
 </div>
 
 ###
