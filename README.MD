@@ -21,13 +21,36 @@
   </p>
 
   <p>
-    <b style="color: #38BDF8;">Just Simplify Everything!</b>
+    <b>
+      <u>Just Simplify Everything!</u>
+    </b>
   </p>
+
+  <div align="center">
+    <a href="https://instagram.com/zaadevofc" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:zaadevofc@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://ko-fi.com/zaadevofc" target="_blank">
+      <img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi" />
+    </a>
+    <a href="https://discord.gg/SfnWWYUe" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://saweria.co/zaadevofc" target="_blank">
+      <img src="https://img.shields.io/badge/Saweria-yellow" alt="Saweria" />
+    </a>
+    <a href="https://trakteer.id/zaadevofc" target="_blank">
+      <img src="https://img.shields.io/badge/Trakteer-red" alt="Trakteer" />
+    </a>
+  </div>
 </div>
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+---
 
 <br/>
 
@@ -51,44 +74,6 @@
 </div>
 
 <br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/zeative">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeative&theme=dark&hide_border=true&background=00000000&ring=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/zeative">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeative&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8" alt="Zeative's Stats" />
-  </a>
-</div>
-
-<br/>
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<div align="center">
-  <a href="https://instagram.com/zaadevofc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:zaadevofc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://ko-fi.com/zaadevofc" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://discord.gg/SfnWWYUe" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://saweria.co/zaadevofc" target="_blank">
-    <img src="https://img.shields.io/badge/Saweria-yellow" alt="Saweria" />
-  </a>
-  <a href="https://trakteer.id/zaadevofc" target="_blank">
-    <img src="https://img.shields.io/badge/Trakteer-red" alt="Trakteer" />
-  </a>
-</div>
-
 <br/>
 
 <!--START_SECTION:waka-->
