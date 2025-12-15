@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kejaa;Software+Developer;Efficiency+Enthusiast;Always+Optimizing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kejaa;Software+Developer;Efficiency+Enthusiast;Always+Optimizing;Simplify+Everything!" alt="Typing SVG" />
 </div>
 
 <br />
@@ -18,6 +18,10 @@
     <b>Software Developer</b> from Indonesia <img src="https://www.svgrepo.com/show/405511/flag-for-flag-indonesia.svg" height="14" width="14" align="center"  /><br/>
     I love efficiency, simplifying complex problems, and optimization.<br/>
     <i>"Code that performs at the microsecond level."</i>
+  </p>
+
+  <p>
+    <b style="color: #38BDF8;">Just Simplify Everything!</b>
   </p>
 </div>
 
@@ -74,8 +78,14 @@
   <a href="https://ko-fi.com/zaadevofc" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
-  <a href="https://medium.com/@zaadevofc" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://discord.gg/SfnWWYUe" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://saweria.co/zaadevofc" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-yellow" alt="Saweria" />
+  </a>
+  <a href="https://trakteer.id/zaadevofc" target="_blank">
+    <img src="https://img.shields.io/badge/Trakteer-red" alt="Trakteer" />
   </a>
 </div>
 
