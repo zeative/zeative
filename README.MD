@@ -57,15 +57,15 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,go,rust,dart,cpp&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,go,rust&perline=8" alt="Languages" />
   <br/><br/>
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,astro,tailwind,html,css&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,vue,svelte,astro,tailwind,html,css&perline=10" alt="Frontend" />
   <br/><br/>
 
   <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql,sqlite,mongo,supabase,prisma&perline=9" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=deno,bun,nodejs,express,laravel,postgres,mysql,sqlite,mongo,supabase,prisma&perline=14" alt="Backend" />
   <br/><br/>
 
   <!-- Tools -->
