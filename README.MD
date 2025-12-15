@@ -1,102 +1,85 @@
-<img height="100" src="https://github.com/zeative.png" />
+<br />
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kejaa;Software+Developer;Efficiency+Enthusiast;Always+Optimizing" alt="Typing SVG" />
+</div>
 
-<p align="left">Hi dev! I'm Kejaa, a freelance and part-time worker.<br>I love efficiency, simplifying and optimization.</p>
+<br />
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zeative.zeative&left_color=darkorange&right_color=dimgrey&left_text=Look%20at%20me"  />
   <img src="https://wakatime.com/badge/user/018b5cb5-fb66-4092-8e09-034dd5b8f706.svg"  />
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="32" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="32" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=deno" height="32" alt="denojs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="32" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="32" alt="cloudflare logo"  />
+<div align="center">
+  <p>
+    <b>Software Developer</b> from Indonesia <img src="https://www.svgrepo.com/show/405511/flag-for-flag-indonesia.svg" height="14" width="14" align="center"  /><br/>
+    I love efficiency, simplifying complex problems, and optimization.<br/>
+    <i>"Code that performs at the microsecond level."</i>
+  </p>
 </div>
 
-###
+<br/>
 
-<p align="left">👨‍🏫 About me?<br>- I'm from Indonesian 🇮🇩<br>- Vibe Coders/System Automation/User Experience<br>- Currently learning: Golang, Rust and Flutter<br>- How to reach me zaadevofc@gmail.com</p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-###
+<br/>
 
-<p align="left">Let's make a connection!</p>
+<div align="center">
 
-###
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,go,rust,dart,cpp&perline=8" alt="Languages" />
+  <br/><br/>
 
-<div align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,astro,tailwind,html,css&perline=8" alt="Frontend" />
+  <br/><br/>
+
+  <!-- Backend & DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql,sqlite,mongo,supabase,prisma&perline=9" alt="Backend" />
+  <br/><br/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,bash,cloudflare,arduino&perline=8" alt="Tools" />
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/zeative">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeative&theme=dark&hide_border=true&background=00000000&ring=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/zeative">
+    <img src="https://github-readme-stats.vercel.app/api?username=zeative&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8" alt="Zeative's Stats" />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<div align="center">
   <a href="https://instagram.com/zaadevofc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:zaadevofc@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://ko-fi.com/zaadevofc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="37" height="25" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
   <a href="https://medium.com/@zaadevofc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="37" height="25" alt="medium logo"  />
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
 
-###
+<br/>
 
 <!--START_SECTION:waka-->
 
@@ -123,12 +106,12 @@ Other                      8 hrs 40 mins   ▱▱▱▱▱▱▱▱▱▱▱▱�
 
 <!--END_SECTION:waka-->
 
-###
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
