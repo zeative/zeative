@@ -79,18 +79,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 23 December 2025
+From: 22 October 2023 - To: 24 December 2025
 
-Total Time: 2,190 hrs 9 mins
+Total Time: 2,198 hrs 52 mins
 
-TypeScript                 1,504 hrs       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   68.38 %
-Vue.js                     169 hrs 6 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.69 %
-JavaScript                 103 hrs 32 mins ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.71 %
-Blade Template             80 hrs 33 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.66 %
-JSON                       71 hrs 16 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.24 %
-PHP                        62 hrs 36 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.85 %
-Markdown                   40 hrs 25 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.84 %
-C++                        34 hrs 28 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.57 %
+TypeScript                 1,512 hrs 8 mins▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   68.48 %
+Vue.js                     169 hrs 6 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.66 %
+JavaScript                 103 hrs 34 mins ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.69 %
+Blade Template             80 hrs 33 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.65 %
+JSON                       71 hrs 26 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.24 %
+PHP                        62 hrs 36 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.84 %
+Markdown                   40 hrs 25 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.83 %
+C++                        34 hrs 28 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.56 %
 Astro                      22 hrs 1 min    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.00 %
 CSS                        21 hrs 34 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.98 %
 Prisma                     18 hrs 13 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.83 %
