@@ -17,7 +17,7 @@
   <p>
     <b>Software Developer</b> from Indonesia <img src="https://www.svgrepo.com/show/405511/flag-for-flag-indonesia.svg" height="14" width="14" align="center"  /><br/>
     I love efficiency, simplifying complex problems, and optimization.<br/>
-    <i>"Code that performs at the microsecond level."</i>
+    <i>"Code can build anything, even humans."</i>
   </p>
 
   <p>
