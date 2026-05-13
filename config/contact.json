@@ -1,42 +1,42 @@
 [
-	{
-		label: "WhatsApp",
-		handle: "+62 851-3663-5787",
-		href: "https://wa.me/6285136635787",
-		icon: "lucide:message-circle",
-		tone: "from-emerald-400 to-emerald-600",
-		description: "Respon paling cepat. Untuk bug urgent atau pertanyaan singkat."
-	},
-	{
-		label: "Email",
-		handle: "zaadevofc@gmail.com",
-		href: "mailto:zaadevofc@gmail.com",
-		icon: "lucide:mail",
-		tone: "from-sky-400 to-sky-600",
-		description: "Untuk laporan detail, attachment, atau proposal kerja sama."
-	},
-	{
-		label: "GitHub",
-		handle: "@zeative",
-		href: "https://github.com/zeative",
-		icon: "mdi:github",
-		tone: "from-zinc-700 to-zinc-900",
-		description: "Source code, issues, & technical discussion."
-	},
-	{
-		label: "Instagram",
-		handle: "@zaadevofc",
-		href: "https://instagram.com/zaadevofc",
-		icon: "mdi:instagram",
-		tone: "from-fuchsia-500 via-rose-500 to-amber-400",
-		description: "Update portfolio & casual reach."
-	},
-	{
-		label: "LinkedIn",
-		handle: "in/zaadevofc",
-		href: "https://linkedin.com/in/zaadevofc",
-		icon: "mdi:linkedin",
-		tone: "from-blue-500 to-blue-700",
-		description: "Professional inquiry & collaboration."
-	}
+    {
+        "label": "WhatsApp",
+        "handle": "+62 851-3663-5787",
+        "href": "https://wa.me/6285136635787",
+        "icon": "lucide:message-circle",
+        "tone": "from-emerald-400 to-emerald-600",
+        "description": "Respon paling cepat. Untuk bug urgent atau pertanyaan singkat."
+    },
+    {
+        "label": "Email",
+        "handle": "zaadevofc@gmail.com",
+        "href": "mailto:zaadevofc@gmail.com",
+        "icon": "lucide:mail",
+        "tone": "from-sky-400 to-sky-600",
+        "description": "Untuk laporan detail, attachment, atau proposal kerja sama."
+    },
+    {
+        "label": "GitHub",
+        "handle": "@zeative",
+        "href": "https://github.com/zeative",
+        "icon": "mdi:github",
+        "tone": "from-zinc-700 to-zinc-900",
+        "description": "Source code, issues, & technical discussion."
+    },
+    {
+        "label": "Instagram",
+        "handle": "@zaadevofc",
+        "href": "https://instagram.com/zaadevofc",
+        "icon": "mdi:instagram",
+        "tone": "from-fuchsia-500 via-rose-500 to-amber-400",
+        "description": "Update portfolio & casual reach."
+    },
+    {
+        "label": "LinkedIn",
+        "handle": "in/zaadevofc",
+        "href": "https://linkedin.com/in/zaadevofc",
+        "icon": "mdi:linkedin",
+        "tone": "from-blue-500 to-blue-700",
+        "description": "Professional inquiry & collaboration."
+    }
 ]
