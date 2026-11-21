@@ -36,9 +36,6 @@
     <a href="https://ko-fi.com/zaadevofc" target="_blank">
       <img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi" />
     </a>
-    <a href="https://discord.gg/SfnWWYUe" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
-    </a>
     <a href="https://saweria.co/zaadevofc" target="_blank">
       <img src="https://img.shields.io/badge/Saweria-yellow" alt="Saweria" />
     </a>
